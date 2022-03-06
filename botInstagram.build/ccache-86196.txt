@@ -1,0 +1,620 @@
+[2022-02-09T20:26:19.710605 99536] === CCACHE 4.3 STARTED =========================================
+[2022-02-09T20:26:19.710580 104720] === CCACHE 4.3 STARTED =========================================
+[2022-02-09T20:26:19.710527 106260] === CCACHE 4.3 STARTED =========================================
+[2022-02-09T20:26:19.710605 99536] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) base_dir = 
+[2022-02-09T20:26:19.710605 99536] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:19.710605 99536] Config: (default) compiler = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:19.710605 99536] Config: (default) compiler_type = auto
+[2022-02-09T20:26:19.710605 99536] Config: (default) compression = true
+[2022-02-09T20:26:19.710605 99536] Config: (default) compression_level = 0
+[2022-02-09T20:26:19.710605 99536] Config: (default) cpp_extension = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) debug = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) debug_dir = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) depend_mode = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) direct_mode = true
+[2022-02-09T20:26:19.710605 99536] Config: (default) disable = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) file_clone = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) hard_link = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) hash_dir = true
+[2022-02-09T20:26:19.710605 99536] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) ignore_options = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) inode_cache = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:19.710605 99536] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:19.710605 99536] Config: (default) max_files = 0
+[2022-02-09T20:26:19.710605 99536] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:19.710605 99536] Config: (default) path = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) prefix_command = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) read_only = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) read_only_direct = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) recache = false
+[2022-02-09T20:26:19.710605 99536] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:19.710605 99536] Config: (default) sloppiness = 
+[2022-02-09T20:26:19.710605 99536] Config: (default) stats = true
+[2022-02-09T20:26:19.710605 99536] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:19.710605 99536] Config: (default) umask = 
+[2022-02-09T20:26:19.735789 99536] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2022-02-09T20:26:19.736293 99536] Hostname: unknown
+[2022-02-09T20:26:19.736343 99536] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:19.736376 99536] Compiler type: gcc
+[2022-02-09T20:26:19.710527 91164] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) base_dir = 
+[2022-02-09T20:26:19.710527 91164] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:19.710527 91164] Config: (default) compiler = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:19.710527 91164] Config: (default) compiler_type = auto
+[2022-02-09T20:26:19.710527 91164] Config: (default) compression = true
+[2022-02-09T20:26:19.710527 91164] Config: (default) compression_level = 0
+[2022-02-09T20:26:19.710527 91164] Config: (default) cpp_extension = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) debug = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) debug_dir = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) depend_mode = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) direct_mode = true
+[2022-02-09T20:26:19.710527 91164] Config: (default) disable = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) file_clone = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) hard_link = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) hash_dir = true
+[2022-02-09T20:26:19.710527 91164] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) ignore_options = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) inode_cache = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:19.710527 91164] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:19.710527 91164] Config: (default) max_files = 0
+[2022-02-09T20:26:19.710527 91164] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:19.710527 91164] Config: (default) path = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) prefix_command = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) read_only = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) read_only_direct = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) recache = false
+[2022-02-09T20:26:19.710527 91164] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:19.710527 91164] Config: (default) sloppiness = 
+[2022-02-09T20:26:19.710527 91164] Config: (default) stats = true
+[2022-02-09T20:26:19.710527 91164] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:19.710527 91164] Config: (default) umask = 
+[2022-02-09T20:26:19.736414 91164] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o static_src\CompiledCellType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-02-09T20:26:19.710583 100940] === CCACHE 4.3 STA[2022-02-09T20:26:19.736614 91164] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:19.710580 104720] Config: (default) a[2022-02-09T20:26:19.710413 68044] === CCACHE 4.3 STARTED =========================================
+2022-02-09T20:26:19.710580 104720] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:19.710580 104720] Config: (default) compiler = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:19.710580 104720] Config: (default) compiler_type = auto
+[2022-02-09T20:26:19.710580 104720] Config: (default) compression = true
+[2022-02-09T20:26:19.710580 104720] Config: (default) compression_level = 0
+[2022-02-09T20:26:19.710580 104720] Config: (default) cpp_extension = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) debug = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) debug_dir = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) depend_mode = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) direct_mode = true
+[2022-02-09T20:26:19.710580 104720] Config: (default) disable = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) file_clone = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) hard_link = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) hash_dir = true
+[2022-02-09T20:26:19.710580 104720] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) ignore_options = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) inode_cache = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:19.710580 104720] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:19.710580 104720] Config: (default) max_files = 0
+[2022-02-09T20:26:19.710580 104720] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:19.710580 104720] Config: (default) path = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) prefix_command = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) read_only = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) read_only_direct = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) recache = false
+[2022-02-09T20:26:19.710580 104720] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:19.710580 104720] Config: (default) sloppiness = 
+[2022-02-09T20:26:19.710580 104720] Config: (default) stats = true
+[2022-02-09T20:26:19.710580 104720] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:19.710580 104720] Config: (default) umask = 
+[2022-02-09T20:26:19.736653 104720] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2022-02-09T20:26:19.736931 104720] Hostname: unknown
+[2022-02-09T20:26:19.736977 104720] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:19.737009 104720] Compiler type: gcc
+[2022-02-09T20:26:19.710583 100940] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) base_dir = 
+[2022-02-09T20:26:19.710583 100940] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:19.710583 100940] Config: (default) compiler = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:19.710583 100940] Config: (default) compiler_type = auto
+[2022-02-09T20:26:19.710583 100940] Config: (default) compression = true
+[2022-02-09T20:26:19.710583 100940] Config: (default) compression_level = 0
+[2022-02-09T20:26:19.710583 100940] Config: (default) cpp_extension = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) debug = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) debug_dir = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) depend_mode = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) direct_mode = true
+[2022-02-09T20:26:19.710583 100940] Config: (default) disable = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) file_clone = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) hard_link = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) hash_dir = true
+[2022-02-09T20:26:19.710583 100940] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) ignore_options = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) inode_cache = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:19.710583 100940] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:19.710583 100940] Config: (default) max_files = 0
+[2022-02-09T20:26:19.710583 100940] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:19.710583 100940] Config: (default) path = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) prefix_command = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) read_only = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) read_only_direct = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) recache = false
+[2022-02-09T20:26:19.710583 100940] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:19.710583 100940] Config: (default) sloppiness = 
+[2022-02-09T20:26:19.710583 100940] Config: (default) stats = true
+[2022-02-09T20:26:19.710583 100940] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:19.710583 100940] Config: (default) umask = 
+[2022-02-09T20:26:19.737079 100940] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o __constants.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-02-09T20:26:19.737484 99536] Source file: static_src\MainProgram.c
+e.c
+[2022-02-09T20:26:19.737678 100940] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:19.737732 100940] Compiler type: gcc
+[2022-02-09T20:26:19.710527 106260] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) base_dir = 
+[2022-02-09T20:26:19.710527 106260] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:19.710527 106260] Config: (default) compiler = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:19.710527 106260] Config: (default) compiler_type = auto
+[2022-02-09T20:26:19.710527 106260] Config: (default) compression = true
+[2022-02-09T20:26:19.710527 106260] Config: (default) compression_level = 0
+[2022-02-09T20:26:19.710527 106260] Config: (default) cpp_extension = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) debug = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) debug_dir = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) depend_mode = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) direct_mode = true
+[2022-02-09T20:26:19.710527 106260] Config: (default) disable = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) file_clone = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) hard_link = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) hash_dir = true
+[2022-02-09T20:26:19.710527 106260] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) ignore_options = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) inode_cache = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:19.710527 106260] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:19.710527 106260] Config: (default) max_files = 0
+[2022-02-09T20:26:19.710527 106260] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:19.710527 106260] Config: (default) path = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) prefix_command = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) read_only = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) read_only_direct = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) recache = false
+[2022-02-09T20:26:19.710527 106260] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:19.710527 106260] Config: (default) sloppiness = 
+[2022-02-09T20:26:19.710527 106260] Config: (default) stats = true
+[2022-02-09T20:26:19.710527 106260] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:19.710527 106260] Config: (default) umask = 
+[2022-02-09T20:26:19.737495 106260] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o __helpers.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\bui[2022-02-09T20:26:19.738230[2022-02-09T20:26:19.738283 106260] Hostname: unknown
+src\MainProgram.o
+[2022-02-09T20:26:19.738498 68044] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:19.738540 68044] Compiler type: gcc
+[2022-02-09T20:26:19.738632 99536] Trying direct lookup
+[2022-02-09T20:26:19.738664 106260] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:19.738713 106260] Compiler type: gcc
+[2022-02-09T20:26:19.738988 100940] Source file: __constants.c
+[2022-02-09T20:26:19.739040 100940] Object file: __constants.o
+[2022-02-09T20:26:19.739329 100940] Trying direct lookup
+[2022-02-09T20:26:19.739679 91164] No manifest with name 3e2cc7baf1vb58kivqs61n6drf8nlj1hg in the cache
+[2022-02-09T20:26:19.739758 68044] Source file: module.__main__.c
+[2022-02-09T20:26:19.739803 68044] Object file: module.__main__.o
+[2022-02-09T20:26:19.740052 68044] Trying direct lookup
+[2022-02-09T20:26:19.740439 106260] Source file: __helpers.c
+[2022-02-09T20:26:19.740485 106260] Object file: __helpers.o
+[2022-02-09T20:26:19.740751 106260] Trying direct lookup
+[2022-02-09T20:26:19.741082 99536] No manifest with name 6c18nvaq99mf071jpgf94nfp3bb3umvrg in the cache
+[2022-02-09T20:26:19.741108 100940] No manifest with name 23abit62b1bc47ek3ibh5ji82ntf4tefe in the cache
+[2022-02-09T20:26:19.741537 104720] Source file: __loader.c
+[2022-02-09T20:26:19.741598 104720] Object file: __loader.o
+[2022-02-09T20:26:19.741916 104720] Trying direct lookup
+[2022-02-09T20:26:19.742023 68044] No manifest with name c916qhin3ocjq8bp6557jvgn1mekh7ml8 in the cache
+[2022-02-09T20:26:19.742056 106260] No manifest with name a07c9tj92b97ou63o4iu347qmcean58sa in the cache
+[2022-02-09T20:26:19.743028 104720] No manifest with name 6905t2t8vsvvai8v4bdffv7raej8tmqis in the cache
+[2022-02-09T20:26:19.759161 91164] Running preprocessor
+[2022-02-09T20:26:19.759624 68044] Running preprocessor
+[2022-02-09T20:26:19.759753 104720] Running preprocessor
+[2022-02-09T20:26:19.759878 100940] Running preprocessor
+[2022-02-09T20:26:19.760195 106260] Running preprocessor
+[2022-02-09T20:26:19.760465 99536] Running preprocessor
+[2022-02-09T20:26:22.199367 100728] === CCACHE 4.3 STARTED =========================================
+[2022-02-09T20:26:22.199367 100728] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) base_dir = 
+[2022-02-09T20:26:22.199367 100728] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:22.199367 100728] Config: (default) compiler = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:22.199367 100728] Config: (default) compiler_type = auto
+[2022-02-09T20:26:22.199367 100728] Config: (default) compression = true
+[2022-02-09T20:26:22.199367 100728] Config: (default) compression_level = 0
+[2022-02-09T20:26:22.199367 100728] Config: (default) cpp_extension = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) debug = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) debug_dir = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) depend_mode = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) direct_mode = true
+[2022-02-09T20:26:22.199367 100728] Config: (default) disable = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) file_clone = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) hard_link = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) hash_dir = true
+[2022-02-09T20:26:22.199367 100728] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) ignore_options = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) inode_cache = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:22.199367 100728] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:22.199367 100728] Config: (default) max_files = 0
+[2022-02-09T20:26:22.199367 100728] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:22.199367 100728] Config: (default) path = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) prefix_command = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) read_only = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) read_only_direct = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) recache = false
+[2022-02-09T20:26:22.199367 100728] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:22.199367 100728] Config: (default) sloppiness = 
+[2022-02-09T20:26:22.199367 100728] Config: (default) stats = true
+[2022-02-09T20:26:22.199367 100728] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:22.199367 100728] Config: (default) umask = 
+[2022-02-09T20:26:22.199755 100728] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-02-09T20:26:22.199862 100728] Hostname: unknown
+[2022-02-09T20:26:22.199890 100728] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:22.199909 100728] Compiler type: gcc
+[2022-02-09T20:26:22.200835 100728] Source file: static_src\CompiledFunctionType.c
+[2022-02-09T20:26:22.200906 100728] Object file: static_src\CompiledFunctionType.o
+[2022-02-09T20:26:22.201228 100728] Trying direct lookup
+[2022-02-09T20:26:22.203109 100728] No manifest with name e084ejeim5qcdi9743p5euol1vj3u6au4 in the cache
+[2022-02-09T20:26:22.226511 100728] Running preprocessor
+[2022-02-09T20:26:22.481869 100912] === CCACHE 4.3 STARTED =========================================
+[2022-02-09T20:26:22.481869 100912] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) base_dir = 
+[2022-02-09T20:26:22.481869 100912] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:22.481869 100912] Config: (default) compiler = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:22.481869 100912] Config: (default) compiler_type = auto
+[2022-02-09T20:26:22.481869 100912] Config: (default) compression = true
+[2022-02-09T20:26:22.481869 100912] Config: (default) compression_level = 0
+[2022-02-09T20:26:22.481869 100912] Config: (default) cpp_extension = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) debug = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) debug_dir = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) depend_mode = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) direct_mode = true
+[2022-02-09T20:26:22.481869 100912] Config: (default) disable = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) file_clone = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) hard_link = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) hash_dir = true
+[2022-02-09T20:26:22.481869 100912] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) ignore_options = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) inode_cache = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:22.481869 100912] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:22.481869 100912] Config: (default) max_files = 0
+[2022-02-09T20:26:22.481869 100912] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:22.481869 100912] Config: (default) path = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) prefix_command = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) read_only = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) read_only_direct = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) recache = false
+[2022-02-09T20:26:22.481869 100912] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:22.481869 100912] Config: (default) sloppiness = 
+[2022-02-09T20:26:22.481869 100912] Config: (default) stats = true
+[2022-02-09T20:26:22.481869 100912] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:22.481869 100912] Config: (default) umask = 
+[2022-02-09T20:26:22.482337 100912] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-02-09T20:26:22.482501 100912] Hostname: unknown
+[2022-02-09T20:26:22.482541 100912] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:22.482571 100912] Compiler type: gcc
+[2022-02-09T20:26:22.483434 100912] Source file: static_src\CompiledGeneratorType.c
+[2022-02-09T20:26:22.483483 100912] Object file: static_src\CompiledGeneratorType.o
+[2022-02-09T20:26:22.483740 100912] Trying direct lookup
+[2022-02-09T20:26:22.484633 100912] No manifest with name d516efb6nqnvme0rotvpn7hrf7a9t2huk in the cache
+[2022-02-09T20:26:22.515787 100912] Running preprocessor
+[2022-02-09T20:26:24.496317 104720] Got result name from preprocessor
+[2022-02-09T20:26:24.496583 104720] No result with name 04bcor66hj6p24de7vu09r4lguhssncag in the cache
+[2022-02-09T20:26:24.496638 104720] Running real compiler
+[2022-02-09T20:26:26.608329 104720] Using default compression level 1
+[2022-02-09T20:26:26.797119 104720] Storing result __loader.o
+[2022-02-09T20:26:26.797366 104720] Storing embedded file #0 .o (9460 bytes) from __loader.o
+[2022-02-09T20:26:26.852936 104720] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/4/bcor66hj6p24de7vu09r4lguhssncagR
+[2022-02-09T20:26:26.950391 104720] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/9/05t2t8vsvvai8v4bdffv7raej8tmqisM
+[2022-02-09T20:26:26.986778 104720] Using default compression level 1
+[2022-02-09T20:26:26.993841 104720] Result: cache miss
+[2022-02-09T20:26:26.994653 104720] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-02-09T20:26:27.421262 104720] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-02-09T20:26:27.421965 104720] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-02-09T20:26:27.445202 104720] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-02-09T20:26:27.445925 104720] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.q1lH1P
+[2022-02-09T20:26:27.446388 104720] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.r8jDYP
+[2022-02-09T20:26:27.446824 104720] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.L0vNZB
+[2022-02-09T20:26:27.447301 104720] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.xxEBmB.i
+[2022-02-09T20:26:27.447946 104720] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.xxEBmB
+[2022-02-09T20:26:27.799912 99900] === CCACHE 4.3 STARTED =========================================
+[2022-02-09T20:26:27.799912 99900] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) base_dir = 
+[2022-02-09T20:26:27.799912 99900] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:27.799912 99900] Config: (default) compiler = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:27.799912 99900] Config: (default) compiler_type = auto
+[2022-02-09T20:26:27.799912 99900] Config: (default) compression = true
+[2022-02-09T20:26:27.799912 99900] Config: (default) compression_level = 0
+[2022-02-09T20:26:27.799912 99900] Config: (default) cpp_extension = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) debug = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) debug_dir = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) depend_mode = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) direct_mode = true
+[2022-02-09T20:26:27.799912 99900] Config: (default) disable = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) file_clone = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) hard_link = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) hash_dir = true
+[2022-02-09T20:26:27.799912 99900] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) ignore_options = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) inode_cache = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:27.799912 99900] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:27.799912 99900] Config: (default) max_files = 0
+[2022-02-09T20:26:27.799912 99900] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:27.799912 99900] Config: (default) path = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) prefix_command = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) read_only = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) read_only_direct = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) recache = false
+[2022-02-09T20:26:27.799912 99900] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:27.799912 99900] Config: (default) sloppiness = 
+[2022-02-09T20:26:27.799912 99900] Config: (default) stats = true
+[2022-02-09T20:26:27.799912 99900] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:27.799912 99900] Config: (default) umask = 
+[2022-02-09T20:26:27.800194 99900] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o static_src\InspectPatcher.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-02-09T20:26:27.800251 99900] Hostname: unknown
+[2022-02-09T20:26:27.800279 99900] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:27.800301 99900] Compiler type: gcc
+[2022-02-09T20:26:27.801418 99900] Source file: static_src\InspectPatcher.c
+[2022-02-09T20:26:27.801465 99900] Object file: static_src\InspectPatcher.o
+[2022-02-09T20:26:27.801653 99900] Trying direct lookup
+[2022-02-09T20:26:27.803071 99900] No manifest with name 05f2nfratctha81fnkt81fddefia3t4o4 in the cache
+[2022-02-09T20:26:27.806167 99900] Running preprocessor
+[2022-02-09T20:26:27.825250 106260] Got result name from preprocessor
+[2022-02-09T20:26:27.825503 106260] No result with name c19amagn70uhuivisurd4qsv3a9iabbom in the cache
+[2022-02-09T20:26:27.825553 106260] Running real compiler
+[2022-02-09T20:26:27.831501 91164] Got result name from preprocessor
+[2022-02-09T20:26:27.831749 91164] No result with name ed24cm4agqofq1qraeo0u39krlr1767g6 in the cache
+[2022-02-09T20:26:27.831787 91164] Running real compiler
+[2022-02-09T20:26:27.862873 68044] Got result name from preprocessor
+[2022-02-09T20:26:27.863725 68044] No result with name d1a3ofhlq9c1uje9mq016vk5oi6nlv826 in the cache
+[2022-02-09T20:26:27.869858 68044] Running real compiler
+[2022-02-09T20:26:27.879141 100940] Got result name from preprocessor
+[2022-02-09T20:26:27.879508 100940] No result with name 0a19bg2s77p8ihfnb47frv23iruq1ndf6 in the cache
+[2022-02-09T20:26:27.879561 100940] Running real compiler
+[2022-02-09T20:26:27.964665 100912] Got result name from preprocessor
+[2022-02-09T20:26:27.965024 100912] No result with name 1adbkc6f337381ullfniprlh1992f7bjo in the cache
+[2022-02-09T20:26:27.965081 100912] Running real compiler
+[2022-02-09T20:26:28.005985 99536] Got result name from preprocessor
+[2022-02-09T20:26:28.006731 99536] No result with name be2cr1tl4lct85btd0fhcscdup24ug4vg in the cache
+[2022-02-09T20:26:28.006841 99536] Running real compiler
+[2022-02-09T20:26:29.422179 106260] Using default compression level 1
+[2022-02-09T20:26:29.422383 106260] Storing result __helpers.o
+[2022-02-09T20:26:29.422593 106260] Storing embedded file #0 .o (2644 bytes) from __helpers.o
+[2022-02-09T20:26:29.426962 106260] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/1/9amagn70uhuivisurd4qsv3a9iabbomR
+[2022-02-09T20:26:29.445741 106260] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/7c9tj92b97ou63o4iu347qmcean58saM
+[2022-02-09T20:26:29.527266 106260] Using default compression level 1
+[2022-02-09T20:26:29.532568 106260] Result: cache miss
+[2022-02-09T20:26:29.533111 106260] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-02-09T20:26:29.545923 106260] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-02-09T20:26:29.546687 106260] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-02-09T20:26:29.557265 106260] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-02-09T20:26:29.559195 106260] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.P1qnS4
+[2022-02-09T20:26:29.559804 106260] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.nOnR1S
+[2022-02-09T20:26:29.560286 106260] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.i9q8Zr
+[2022-02-09T20:26:29.562069 106260] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.xtX6Rd.i
+[2022-02-09T20:26:29.563262 106260] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.xtX6Rd
+[2022-02-09T20:26:29.697723 100940] Using default compression level 1
+[2022-02-09T20:26:29.698006 100940] Storing result __constants.o
+[2022-02-09T20:26:29.699645 100940] Storing embedded file #0 .o (14566 bytes) from __constants.o
+[2022-02-09T20:26:29.715234 100940] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/a/19bg2s77p8ihfnb47frv23iruq1ndf6R
+[2022-02-09T20:26:29.716000 100940] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/3/abit62b1bc47ek3ibh5ji82ntf4tefeM
+[2022-02-09T20:26:29.771248 100940] Using default compression level 1
+[2022-02-09T20:26:29.775886 100940] Result: cache miss
+[2022-02-09T20:26:29.776449 100940] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2022-02-09T20:26:29.787334 100940] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2022-02-09T20:26:29.797029 100940] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-02-09T20:26:29.806681 100940] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-02-09T20:26:29.807529 100940] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1rYQDz
+[2022-02-09T20:26:29.808211 100940] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.pagtEq
+[2022-02-09T20:26:29.808717 100940] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.9TNFDB
+[2022-02-09T20:26:29.809301 100940] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.g2tDii.i
+[2022-02-09T20:26:29.810578 100940] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.g2tDii
+[2022-02-09T20:26:29.814632 103756] === CCACHE 4.3 STARTED =========================================
+[2022-02-09T20:26:29.814632 103756] Config: (default) absolute_paths_in_stderr = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) base_dir = 
+[2022-02-09T20:26:29.814632 103756] Config: (environment) cache_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-09T20:26:29.814632 103756] Config: (default) compiler = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) compiler_check = mtime
+[2022-02-09T20:26:29.814632 103756] Config: (default) compiler_type = auto
+[2022-02-09T20:26:29.814632 103756] Config: (default) compression = true
+[2022-02-09T20:26:29.814632 103756] Config: (default) compression_level = 0
+[2022-02-09T20:26:29.814632 103756] Config: (default) cpp_extension = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) debug = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) debug_dir = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) depend_mode = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) direct_mode = true
+[2022-02-09T20:26:29.814632 103756] Config: (default) disable = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) extra_files_to_hash = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) file_clone = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) hard_link = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) hash_dir = true
+[2022-02-09T20:26:29.814632 103756] Config: (default) ignore_headers_in_manifest = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) ignore_options = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) inode_cache = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) keep_comments_cpp = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) limit_multiple = 0.8
+[2022-02-09T20:26:29.814632 103756] Config: (environment) log_file = C:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\botInstagram.build\ccache-86196.txt
+[2022-02-09T20:26:29.814632 103756] Config: (default) max_files = 0
+[2022-02-09T20:26:29.814632 103756] Config: (default) max_size = 5.0G
+[2022-02-09T20:26:29.814632 103756] Config: (default) path = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) pch_external_checksum = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) prefix_command = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) prefix_command_cpp = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) read_only = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) read_only_direct = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) recache = false
+[2022-02-09T20:26:29.814632 103756] Config: (default) run_second_cpp = true
+[2022-02-09T20:26:29.814632 103756] Config: (default) sloppiness = 
+[2022-02-09T20:26:29.814632 103756] Config: (default) stats = true
+[2022-02-09T20:26:29.814632 103756] Config: (default) temporary_dir = C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-09T20:26:29.814632 103756] Config: (default) umask = 
+[2022-02-09T20:26:29.815154 103756] Command line: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\ccache.exe C:\Users\pluca\AppData\Local\Nuitka\Nuitka\gcc\x86\11.2.0-12.0.1-9.0.0-r1\mingw32\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\pluca\AppData\Local\Programs\Python\Python38-32\include -I. -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\pluca\OneDrive\DOCUME~1\Lucas\Trabalho\Python\BOTINS~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2022-02-09T20:26:29.815331 103756] Hostname: unknown
+[2022-02-09T20:26:29.815401 103756] Working directory: C:/Users/pluca/OneDrive/DOCUME~1/Lucas/Trabalho/Python/BOTINS~1/botInstagram.build
+[2022-02-09T20:26:29.815441 103756] Compiler type: gcc
+[2022-02-09T20:26:29.816558 103756] Source file: static_src\MetaPathBasedLoader.c
+[2022-02-09T20:26:29.816612 103756] Object file: static_src\MetaPathBasedLoader.o
+[2022-02-09T20:26:29.816896 103756] Trying direct lookup
+[2022-02-09T20:26:29.818447 103756] No manifest with name 9d85456tfef0oqeh2l3nahkbs1p9ffss2 in the cache
+[2022-02-09T20:26:29.823462 103756] Running preprocessor
+[2022-02-09T20:26:29.934030 99900] Got result name from preprocessor
+[2022-02-09T20:26:29.934367 99900] No result with name 6e41tukjk3en4trv94pfgvt9knd4jpt70 in the cache
+[2022-02-09T20:26:29.934426 99900] Running real compiler
+[2022-02-09T20:26:30.072272 91164] Using default compression level 1
+[2022-02-09T20:26:30.072588 91164] Storing result static_src\CompiledCellType.o
+[2022-02-09T20:26:30.072990 91164] Storing embedded file #0 .o (38504 bytes) from static_src\CompiledCellType.o
+[2022-02-09T20:26:30.076978 91164] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/d/24cm4agqofq1qraeo0u39krlr1767g6R
+[2022-02-09T20:26:30.078367 91164] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/e/2cc7baf1vb58kivqs61n6drf8nlj1hgM
+[2022-02-09T20:26:30.167878 91164] Using default compression level 1
+[2022-02-09T20:26:30.173905 91164] Result: cache miss
+[2022-02-09T20:26:30.174720 91164] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-02-09T20:26:30.193339 91164] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-02-09T20:26:30.194073 91164] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-02-09T20:26:30.196866 91164] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-02-09T20:26:30.197520 91164] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.CnLLB2
+[2022-02-09T20:26:30.197984 91164] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.mBUQ9w
+[2022-02-09T20:26:30.198439 91164] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.YKMwpQ
+[2022-02-09T20:26:30.198929 91164] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.CJbNq7.i
+[2022-02-09T20:26:30.241535 91164] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.CJbNq7
+[2022-02-09T20:26:30.506208 68044] Using default compression level 1
+[2022-02-09T20:26:30.506410 68044] Storing result module.__main__.o
+[2022-02-09T20:26:30.506618 68044] Storing embedded file #0 .o (161092 bytes) from module.__main__.o
+[2022-02-09T20:26:30.514748 68044] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/1/a3ofhlq9c1uje9mq016vk5oi6nlv826R
+[2022-02-09T20:26:30.516368 68044] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/9/16qhin3ocjq8bp6557jvgn1mekh7ml8M
+[2022-02-09T20:26:30.567732 68044] Using default compression level 1
+[2022-02-09T20:26:30.574288 68044] Result: cache miss
+[2022-02-09T20:26:30.575569 68044] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-02-09T20:26:30.579354 68044] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-02-09T20:26:30.579989 68044] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-02-09T20:26:30.593981 68044] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-02-09T20:26:30.595135 68044] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.HnVYJQ
+[2022-02-09T20:26:30.595764 68044] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.Ap31fB
+[2022-02-09T20:26:30.596274 68044] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.jUlpo7
+[2022-02-09T20:26:30.596810 68044] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.2HqfEo.i
+[2022-02-09T20:26:30.597886 68044] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.2HqfEo
+[2022-02-09T20:26:30.938053 99536] Using default compression level 1
+[2022-02-09T20:26:30.938283 99536] Storing result static_src\MainProgram.o
+[2022-02-09T20:26:30.938558 99536] Storing embedded file #0 .o (25946 bytes) from static_src\MainProgram.o
+[2022-02-09T20:26:30.943477 99536] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/e/2cr1tl4lct85btd0fhcscdup24ug4vgR
+[2022-02-09T20:26:30.946261 99536] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/18nvaq99mf071jpgf94nfp3bb3umvrgM
+[2022-02-09T20:26:31.004999 99536] Using default compression level 1
+[2022-02-09T20:26:31.013259 99536] Result: cache miss
+[2022-02-09T20:26:31.013904 99536] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-02-09T20:26:31.017985 99536] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-02-09T20:26:31.019069 99536] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-02-09T20:26:31.032244 99536] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-02-09T20:26:31.032922 99536] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.LZvMGA
+[2022-02-09T20:26:31.033385 99536] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.GyBtnD
+[2022-02-09T20:26:31.033908 99536] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.xEk9LG
+[2022-02-09T20:26:31.034900 99536] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RNj9Mx.i
+[2022-02-09T20:26:31.037335 99536] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RNj9Mx
+[2022-02-09T20:26:31.048017 100912] Using default compression level 1
+[2022-02-09T20:26:31.048215 100912] Storing result static_src\CompiledGeneratorType.o
+[2022-02-09T20:26:31.048445 100912] Storing embedded file #0 .o (362020 bytes) from static_src\CompiledGeneratorType.o
+[2022-02-09T20:26:31.056834 100912] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/a/dbkc6f337381ullfniprlh1992f7bjoR
+[2022-02-09T20:26:31.060493 100912] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/5/16efb6nqnvme0rotvpn7hrf7a9t2hukM
+[2022-02-09T20:26:31.125321 100912] Using default compression level 1
+[2022-02-09T20:26:31.129580 100912] Result: cache miss
+[2022-02-09T20:26:31.130117 100912] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-02-09T20:26:31.142430 100912] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-02-09T20:26:31.143013 100912] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-02-09T20:26:31.149179 100912] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-02-09T20:26:31.149636 100912] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.MISisw
+[2022-02-09T20:26:31.149993 100912] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.3FJMUD
+[2022-02-09T20:26:31.150321 100912] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.fI3Dua
+[2022-02-09T20:26:31.150864 100912] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.39vPbo.i
+[2022-02-09T20:26:31.151981 100912] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.39vPbo
+[2022-02-09T20:26:31.235765 99900] Using default compression level 1
+[2022-02-09T20:26:31.236119 99900] Storing result static_src\InspectPatcher.o
+[2022-02-09T20:26:31.236326 99900] Storing embedded file #0 .o (46604 bytes) from static_src\InspectPatcher.o
+[2022-02-09T20:26:31.239663 99900] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/e/41tukjk3en4trv94pfgvt9knd4jpt70R
+[2022-02-09T20:26:31.241046 99900] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/5/f2nfratctha81fnkt81fddefia3t4o4M
+[2022-02-09T20:26:31.272489 99900] Using default compression level 1
+[2022-02-09T20:26:31.277104 99900] Result: cache miss
+[2022-02-09T20:26:31.287998 99900] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-02-09T20:26:31.291520 99900] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-02-09T20:26:31.292335 99900] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-02-09T20:26:31.295102 99900] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-02-09T20:26:31.295632 99900] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.MMPkex
+[2022-02-09T20:26:31.295978 99900] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.YQNjys
+[2022-02-09T20:26:31.296332 99900] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.BxCHEi
+[2022-02-09T20:26:31.296746 99900] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.uiD3Pw.i
+[2022-02-09T20:26:31.297436 99900] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.uiD3Pw
+[2022-02-09T20:26:31.589445 103756] Got result name from preprocessor
+[2022-02-09T20:26:31.589691 103756] No result with name 2d8211g8a0099299fiv069m8jhbtjihpg in the cache
+[2022-02-09T20:26:31.589724 103756] Running real compiler
+[2022-02-09T20:26:32.952314 103756] Using default compression level 1
+[2022-02-09T20:26:32.952771 103756] Storing result static_src\MetaPathBasedLoader.o
+[2022-02-09T20:26:32.953001 103756] Storing embedded file #0 .o (110734 bytes) from static_src\MetaPathBasedLoader.o
+[2022-02-09T20:26:32.957984 103756] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/8211g8a0099299fiv069m8jhbtjihpgR
+[2022-02-09T20:26:32.960078 103756] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/d/85456tfef0oqeh2l3nahkbs1p9ffss2M
+[2022-02-09T20:26:33.058196 103756] Using default compression level 1
+[2022-02-09T20:26:33.067919 103756] Result: cache miss
+[2022-02-09T20:26:33.069159 103756] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-02-09T20:26:33.177147 103756] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-02-09T20:26:33.178204 103756] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2022-02-09T20:26:33.190410 103756] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2022-02-09T20:26:33.192119 103756] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.A345q1
+[2022-02-09T20:26:33.193436 103756] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.adGwOQ
+[2022-02-09T20:26:33.194614 103756] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.cNTFyG
+[2022-02-09T20:26:33.195861 103756] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.FgsM2Q.i
+[2022-02-09T20:26:33.198630 103756] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.FgsM2Q
+[2022-02-09T20:26:34.295931 100728] Got result name from preprocessor
+[2022-02-09T20:26:34.296798 100728] No result with name 74f58pm1kb14fgtf0d3hdki2ubobgoafo in the cache
+[2022-02-09T20:26:34.296908 100728] Running real compiler
+[2022-02-09T20:26:46.139892 100728] Using default compression level 1
+[2022-02-09T20:26:46.140163 100728] Storing result static_src\CompiledFunctionType.o
+[2022-02-09T20:26:46.140450 100728] Storing embedded file #0 .o (3285675 bytes) from static_src\CompiledFunctionType.o
+[2022-02-09T20:26:46.195304 100728] Stored in cache: C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/4/f58pm1kb14fgtf0d3hdki2ubobgoafoR
+[2022-02-09T20:26:46.198122 100728] Adding result name to C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/84ejeim5qcdi9743p5euol1vj3u6au4M
+[2022-02-09T20:26:46.274870 100728] Using default compression level 1
+[2022-02-09T20:26:46.281478 100728] Result: cache miss
+[2022-02-09T20:26:46.282227 100728] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-02-09T20:26:46.288293 100728] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-02-09T20:26:46.289652 100728] Acquired lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-02-09T20:26:46.307791 100728] Releasing lock C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-02-09T20:26:46.308875 100728] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.nr6XZK
+[2022-02-09T20:26:46.309857 100728] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.g7az1K
+[2022-02-09T20:26:46.311636 100728] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.CKYP5T
+[2022-02-09T20:26:46.312512 100728] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EuaFtk.i
+[2022-02-09T20:26:46.314631 100728] Unlink C:\Users\pluca\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EuaFtk
